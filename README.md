@@ -1,4 +1,9 @@
-# ERO1 PROJECT
+# Winter optimization problem
+
+This research project aims to address the concerns of Montréal residents regarding snowplowing operations while considering the delicate issue of increasing the allocated funds. The objective is to minimize the cost of a typical snowplowing day by finding an efficient and cost-effective path for snowplows around the Montréal road network. Additionally, a drone-based aerial analysis will be performed to identify the sectors requiring immediate snowplowing. The report provides a summary of the data used, the study perimeter, hypotheses, model choices, selected solutions, cost model for snow removal operations, and limitations of the proposed model.
+
+See the demo for a demonstration of our proposed solution.
+
 
 ## Install the project
 ```sh
